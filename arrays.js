@@ -24,7 +24,11 @@ function accessElementInArray(a,b){
   return a[b]
 }
 
-function destructivelyR
+function destructivelyRemoveElementFromBeginningOfArray(a){
+  a.shift()
+  return a
+}
+
 
 
 
