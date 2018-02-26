@@ -20,8 +20,11 @@ function destructivelyAddElementToEndOfArray(a,b){
   return a
 }
 
+function accessElementInArray(a,b){
+  return a[b]
+}
 
-
+function destructivelyR
 
 
 
